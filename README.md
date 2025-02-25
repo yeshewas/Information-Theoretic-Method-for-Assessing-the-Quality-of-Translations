@@ -1,2 +1,4 @@
 # Information-Theoretic-Method-for-Assessing-the-Quality-of-Translations
-the experimental implementation investigate the quality of translation and authorship style based on the data compression algorithm
+the experimental implementation investigate the quality of translation and authorship style based on the data compression algorithm.
+the reserach implementation is based on the concept on the paper Ryabko, B.; Savina, N. Information-Theoretic Method for Assessing the Quality of Translations. Entropy 2022, 24, 1739. https:// doi.org/10.3390/e24121739. 
+we use the data from english to amharic language translated books namingly Hamlet by lurate Tsegaye G/medihen,shotelaye BY Mamo weldi, romeo and julit by Kebede michel, oromia by bealu Girma and papion by Natnael Getachew and we used 128 kb data for traning for each authors and 32 slice each with 4kb dataset fro traning set. we deploye the program using Pythons program using PPM, LZMA, Zstd,Bzip2, brotli lossless data compressor.
